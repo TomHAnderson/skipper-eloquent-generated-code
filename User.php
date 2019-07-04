@@ -1,6 +1,7 @@
 <?php
+
 namespace App\Models;
 
-class User extends \App\Models\Base\User
+class User extends AbstractModels\AbstractUser
 {
 }
